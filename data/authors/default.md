@@ -1,7 +1,7 @@
 ---
-name: Tails Azimuth
+name: Lumoon
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
+occupation: 站长
 company: Stanford University
 email: address@yoursite.com
 twitter: https://twitter.com/Twitter
