@@ -13,7 +13,7 @@ const siteMetadata = {
   email: 'xiaohanor@qq.com',
   github: 'https://github.com/xiaohanor',
   twitter: 'https://twitter.com/Twitter',
-  bilibili: 'https://space.bilibili.com/351233837'
+  bilibili: 'https://space.bilibili.com/351233837',
   locale: 'zh-CN',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
