@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Mix Dynamic Blog',
+  title: 'Mix Dynamic',
   author: 'Lumoon',
-  headerTitle: 'Mix Dynamic Blog',
+  headerTitle: 'Mix Dynamic',
   description: '混合动力',
   language: 'zh-CN',
   theme: 'system', // system, dark or light
@@ -13,9 +13,7 @@ const siteMetadata = {
   email: 'xiaohanor@qq.com',
   github: 'https://github.com/xiaohanor',
   twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  bilibili: 'https://space.bilibili.com/351233837'
   locale: 'zh-CN',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
