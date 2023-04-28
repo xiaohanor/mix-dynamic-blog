@@ -2,8 +2,8 @@ import Mail from './mail.svg'
 import Github from './github.svg'
 import Facebook from './facebook.svg'
 import Youtube from './youtube.svg'
-import Linkedin from './linkedin.svg'
 import Twitter from './twitter.svg'
+import Bilibili from './bilibili.svg'
 
 // Icons taken from: https://simpleicons.org/
 
@@ -12,8 +12,8 @@ const components = {
   github: Github,
   facebook: Facebook,
   youtube: Youtube,
-  linkedin: Linkedin,
   twitter: Twitter,
+  bilibili: Bilibili,
 }
 
 const SocialIcon = ({ kind, href, size = 8 }) => {
