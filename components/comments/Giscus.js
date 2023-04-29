@@ -19,10 +19,10 @@ const Giscus = () => {
     setEnabledLoadComments(false)
 
     const {
-      repo="xiaohanor/mix-dynamic-blog",
-      repositoryId="R_kgDOJcaWaQ",
-      category="Announcements",
-      categoryId="DIC_kwDOJcaWac4CWHaM",
+      repo,
+      repositoryId,
+      category,
+      categoryId,
       mapping,
       reactions,
       metadata,
