@@ -2,11 +2,11 @@ const siteMetadata = {
   title: 'Mix Dynamic',
   author: 'Lumoon',
   headerTitle: 'Mix Dynamic',
-  description: '混合动力',
+  description: '混合动力-游戏 科技 影视',
   language: 'zh-CN',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteRepo: 'https://github.com/xiaohanor/mix-dynamic-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
@@ -39,10 +39,10 @@ const siteMetadata = {
     giscusConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://giscus.app/
-      repo: xiaohanor/mix-dynamic-blog,
-      repositoryId: R_kgDOJcaWaQ,
-      category: Announcements,
-      categoryId: DIC_kwDOJcaWac4CWHaM,
+      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
+      repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
+      category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
+      categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
       mapping: 'pathname', // supported options: pathname, url, title
       reactions: '1', // Emoji reactions: 1 = enable / 0 = disable
       // Send discussion metadata periodically to the parent window: 1 = enable / 0 = disable
