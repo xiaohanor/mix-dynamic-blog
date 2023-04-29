@@ -6,3 +6,4 @@ draft: false
 summary: 这里是简要
 ---
 # aaaaaaaaaaaaa
+![ocean](/static/images/ocean.jpeg)

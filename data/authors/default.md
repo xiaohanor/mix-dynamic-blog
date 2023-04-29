@@ -1,8 +1,8 @@
 ---
-name: Lumoon
+name: Lain
 avatar: /static/images/avatar.png
-occupation: 站长
-company: Stanford University
+occupation: CEO
+company: Mix Dynamic
 email: address@yoursite.com
 twitter: https://twitter.com/Twitter
 github: https://github.com

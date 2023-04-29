@@ -1,5 +1,5 @@
 ---
-name: Lain
+name: Akia
 avatar: /static/images/sparrowhawk-avatar.jpg
 occupation: Wizard of Earthsea
 company: Earthsea
