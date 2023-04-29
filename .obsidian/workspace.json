@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "99dfa7b9a2848815",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8df06ca3ac17d83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a6ca4ba57fe95d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/blog/如何快速从零搭建博客网站（一）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "832a1942670c19b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb0d78d2f4e01528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f2fab92872657bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ae953e6879369fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2465030d56f2267",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97d83cee99f5371f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad1322c52d36c63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c48d5ce142bf53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "data/blog/如何快速从零搭建博客网站（一）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6aaa0b941573e086",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "data/blog/如何快速从零搭建博客网站（一）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c19f3dc6ede815d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0fcfd75953c4919",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "data/blog/如何快速从零搭建博客网站（一）.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4f2fab92872657bc",
+  "lastOpenFiles": [
+    "data/blog/如何快速从零搭建博客网站（一）.md"
+  ]
+}
