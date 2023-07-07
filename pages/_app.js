@@ -8,25 +8,10 @@ import { ThemeProvider } from 'next-themes'
 import Head from 'next/head'
 
 import siteMetadata from '@/data/siteMetadata'
-
+import Analytics from '@/components/analytics'
 import LayoutWrapper from '@/components/LayoutWrapper'
 import { ClientReload } from '@/components/ClientReload'
-
 import { Analytics } from '@vercel/analytics/react';
- 
-export default function RootLayout({ children }) {
-  return (
-    <html lang="en">
-      <head>
-        <title>Next.js</title>
-      </head>
-      <body>
-        {children}
-        <Analytics />
-      </body>
-    </html>
-  );
-}
 
 const isDevelopment = process.env.NODE_ENV === 'development'
 const isSocket = process.env.SOCKET
