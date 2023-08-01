@@ -18,7 +18,7 @@ summary: 使用 Notion 优雅地对电脑配件和外设进行采购管理...
 
 打开网址 [装机 (notion.site)](https://glowing-avocado-c5b.notion.site/931d9d9a22df4ecd9baa56655957c5c2)  可以预览使用Demo，点击右上角的 Duplicate 即可复制该模板到你的Notion中。
 
-![](https://raw.githubusercontent.com/xiaohanor/picogo/main/20230801223819.png?token=AIY2HFILWOTLJO2TVGXQVKTEZEMR2)
+![](static\images\notion\20230801223819.png)
 
 
 
@@ -30,7 +30,7 @@ summary: 使用 Notion 优雅地对电脑配件和外设进行采购管理...
 
 这是装机单表格，每一行就是一个电脑配件，一个电脑配件包含四个属性分别是 `名称 Name` `类别 Tags` `价格 Price` `购买链接 Link`。
 
-![](https://raw.githubusercontent.com/xiaohanor/picogo/main/20230801224112.png?token=AIY2HFNRSCLNXQYGMRPNA2LEZEM4U)
+![](static\images\notion\20230801224112.png)
 
 
 
@@ -38,7 +38,7 @@ summary: 使用 Notion 优雅地对电脑配件和外设进行采购管理...
 
 *如果想添加的配件类别不在Tag中，也可以选择Tag时创建一个新Tag*
 
-![](https://raw.githubusercontent.com/xiaohanor/picogo/main/20230801230438.png?token=AIY2HFPEL4SRHTLJBZREGL3EZEPUO)
+![](static\images\notion\20230801230438.png)
 
 
 
@@ -46,7 +46,7 @@ summary: 使用 Notion 优雅地对电脑配件和外设进行采购管理...
 
 当鼠标悬停在配件名称上时，会出现 `OPEN` 的按钮，点击它就可打开配件的详情页。在详情页中你可以添加配件的详情信息，甚至添加图片，当然也可以修改先前提到的`Tag` `Price` `Link` 等信息。  
 
-![](https://raw.githubusercontent.com/xiaohanor/picogo/main/20230801225354.png?token=AIY2HFNIREIHJ4XK6DWO2I3EZEOMI)
+![](static\images\notion\20230801225354.png)
 
 
 
@@ -54,7 +54,7 @@ summary: 使用 Notion 优雅地对电脑配件和外设进行采购管理...
 
 在配置清单窗口中，勾选右侧方框选择想要的配件，即可在已选配置的窗口中查看到该配件。
 
-![](https://raw.githubusercontent.com/xiaohanor/picogo/main/20230801231900.png?token=AIY2HFNWI37NJUJY4ZQNP6TEZERKK)
+![](static\images\notion\20230801231900.png)
 
 并且在已选配置窗口中，可以在`Price`列的最下面看到配件的总计价格。
 
@@ -64,7 +64,7 @@ summary: 使用 Notion 优雅地对电脑配件和外设进行采购管理...
 
 在这个视图下可以清晰地看到哪些种类的配件已选好，或缺少哪些种类的配件。
 
-![](https://raw.githubusercontent.com/xiaohanor/picogo/main/20230801232311.png?token=AIY2HFNFSIEUTKSLBUCID3TEZER2A)
+![](static\images\notion\20230801232311.png)
 
 
 
